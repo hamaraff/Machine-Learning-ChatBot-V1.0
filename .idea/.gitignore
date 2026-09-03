@@ -1,0 +1,31 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# TensorFlow / TFLearn
+log/
+chat.model*
+*.tflearn
+
+# Generated training data
+data.pickle
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
